@@ -68,6 +68,4 @@ Rajat Nishad
 
 Android App Developer
 
-GitHub: https://github.com/dev-rajat1
-
 LinkedIn: https://linkedin.com/in/rajat-nishad
