@@ -47,4 +47,4 @@ Follow these steps to run the app on your local machine:
 
 <br>
 
-**Developed by Rajat** ✨
+**Developed by [dev-rajat1](https://github.com/dev-rajat1)**
